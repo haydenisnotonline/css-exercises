@@ -11,3 +11,9 @@
 .odd-elm.third {
     font-size: 24px;
 }
+
+#fourth-elm {
+    background-color: #9dff8a;
+    font-size: 24px;
+    font-weight: bold;
+}
